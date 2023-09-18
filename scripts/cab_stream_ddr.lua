@@ -1,3 +1,9 @@
+-- I wrote all these header comments
+-- Modified example script from txproto documentation, DOCS/examples/stream_to_twitch.lua and live_monitor.lua
+-- txproto's repository is licensed as LGPLv2.1 and thus, this script must be as well. Don't worry, once I get everything down I'll be able to write the scripts on my own
+
+-- Copyright 2021, Lynne (github.com/cyanreg) 
+
 audio_monitor_id = nil
 video_display_id = nil
 audio_mic_id = nil
