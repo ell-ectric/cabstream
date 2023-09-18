@@ -1,5 +1,8 @@
 This folder includes example scripts for targeted machines. All scripts will assume 2 video inputs (game capture, external camera) and 2 audio inputs (game capture, external microphone)
 
+Documentation for txproto's Lua interface can be found in its repository: https://github.com/cyanreg/txproto/blob/master/DOCS/lua-scripting.md
+
+### ffmpeg_stream_ddr_a.sh - Barebones ffmpeg only script for testing
 cab_stream_ddr_a.lua - DanceDanceRevolution Generation 4 & 5 cabinets
-### TBD: cab_stream_sdvx_vm - Sound Voltex Valkyrie Model
-### TBD: cab_stream_iidx_lm - Beatmania IIDX Lightning Model
+### TBD: cab_stream_sdvx_vm.lua - Sound Voltex Valkyrie Model
+### TBD: cab_stream_iidx_lm.lua - Beatmania IIDX Lightning Model
