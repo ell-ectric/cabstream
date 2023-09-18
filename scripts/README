@@ -1,0 +1,5 @@
+This folder includes example scripts for targeted machines. All scripts will assume 2 video inputs (game capture, external camera) and 2 audio inputs (game capture, external microphone)
+
+cab_stream_ddr_a.lua - DanceDanceRevolution Generation 4 & 5 cabinets
+### TBD: cab_stream_sdvx_vm - Sound Voltex Valkyrie Model
+### TBD: cab_stream_iidx_lm - Beatmania IIDX Lightning Model
